@@ -1,5 +1,5 @@
 # Clipboard
-##Automation Project on Clipboard
+## Automation Project on Clipboard
 To use open in command propmt.
 then use `python MultiClipboard.py <key>`
 Key that can be used are :
